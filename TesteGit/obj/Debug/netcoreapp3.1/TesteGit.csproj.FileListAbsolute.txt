@@ -1,0 +1,14 @@
+C:\Users\rapha\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+C:\Users\rapha\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+C:\Users\rapha\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+C:\Users\rapha\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+C:\Users\rapha\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\rapha\source\repos\TesteGit\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+C:\Users\rapha\source\repos\TesteGit\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
